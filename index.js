@@ -22,7 +22,7 @@ function dec(n) {
   return n - 1;
 }
 
-function makeInt('n', base) {
+function makeInt(n, base) {
   parseInt('0 x 2328', 2)
   return n;
 }
