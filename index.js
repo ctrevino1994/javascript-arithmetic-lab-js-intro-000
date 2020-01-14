@@ -23,7 +23,7 @@ function dec(n) {
 }
 
 function makeInt(n, base) {
-  parseInt('0x2328', 10)
+  parseInt('0 x 2328', 10)
   return n;
 }
 
