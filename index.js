@@ -24,5 +24,6 @@ function dec(n) {
 
 function makeInt(n) {
   parseInt('n', 10);
+  base.toEqual(10)
   return n;
 }
